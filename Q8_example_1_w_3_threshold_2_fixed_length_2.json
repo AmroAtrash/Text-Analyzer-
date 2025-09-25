@@ -1,0 +1,21 @@
+{
+    "Question 8": {
+        "Pair Matches": [
+            [
+                "aurelius dumbledore",
+                "harry potter",
+                true
+            ],
+            [
+                "draco malfoy",
+                "hermione granger",
+                false
+            ],
+            [
+                "harry potter",
+                "hermione granger",
+                false
+            ]
+        ]
+    }
+}
